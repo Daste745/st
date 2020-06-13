@@ -1,0 +1,6 @@
+patch < patches/st-desktopentry-0.8.2.diff
+patch < patches/st-clipboard-0.8.3.diff
+patch < patches/st-scrollback-20200419-72e3f6c.diff
+patch < patches/st-scrollback-mouse-20191024-a2c479c.diff
+patch < patches/st-anysize-0.8.1.diff
+patch < patches/st-alpha-0.8.2.diff
