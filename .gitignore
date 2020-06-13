@@ -1,0 +1,6 @@
+*.o
+*.rej
+*.orig
+*.bak
+
+st
