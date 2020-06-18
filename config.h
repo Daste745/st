@@ -194,6 +194,8 @@ static Shortcut shortcuts[] = {
 
 	{ MOD,             XK_C,           clipcopy,       {.i =  0} },
 	{ MOD,             XK_V,           clippaste,      {.i =  0} },
+
+	{ MOD,             XK_Return,      newterm,        {.i =  0} },
 };
 
 /*
